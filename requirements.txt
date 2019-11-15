@@ -1,0 +1,8 @@
+os
+uuid
+tensorflow
+numpy
+matplotlib
+scipy
+unittest
+keras
